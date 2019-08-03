@@ -1,3 +1,3 @@
 # seaborn_practice
 
-This repo contains my practice notebook of seaborn.
+This repo contains my practice notebooks of seaborn.
